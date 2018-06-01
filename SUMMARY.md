@@ -20,6 +20,6 @@
 
 ## Sprint 2. Web Servers and Application Deployment
 
-* [1.1. Web Servers and Application Deployment](backend/sprint_2/1_1_web_server.md)
+* [1.1. Web Servers and Application Deployment](backend/sprint_2/1_1_web_servers.md)
 * [1.2. Testing Your Application](backend/sprint_2/1_2_testing_your_application.md)
 * [1.3. Async/Await](backend/sprint_2/1_3_async_await.md)
