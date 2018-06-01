@@ -9,8 +9,11 @@
 * [1.3 Posicionamiento](sprint_1/1_3_posicionamiento.md)
 * [1.4 Publicando nuestra web](sprint_1/1_4_publicando_nuestra_web.md)
 
-# Backend
+## Backend
 
 ## Sprint 1. Introduction + Node Basics
 
 * [1.1. What is node?](backend/sprint_1/1_1_what_is_node.md)
+* [1.2. Node fundamentals](backend/sprint_1/1_2_node_fundamentals.md)
+* [1.3. Asynchronous Node.js](backend/sprint_1/1_3_asynchronous_node.md)
+* [1.4. Excersises](backend/sprint_1/1_4_exercises.md)
