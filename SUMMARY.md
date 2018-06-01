@@ -13,23 +13,4 @@
 
 ## Sprint 1. Introduction + Node Basics
 
-What you will learn:
-
-* Node.js
-* Npm
-* Asynchronous programming
-* ES6/ES7
-* MongoDB
-* Express
-* Socket.IO
-* JWT Authentication
-* Mongoose
-* Application deployment with Heroku
-* Version control with Git
-* GitHub
-* REST API Design
-* Code testing
-* Debugging
-* Mocha
-
 * [1.1. What is node?](backend/sprint_1/1_1_what_is_node.md)
